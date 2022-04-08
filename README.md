@@ -7,7 +7,7 @@ My name is Ivan. I currently write software for <a target="_blank" href="https:/
 
 If you are into virus genetics, check out <a target="_blank" href="https://clades.nextstrain.org">Nextclade</a>, a web app to which I dedicated many quarantine days and nights.
 
-I enjoy writing software in JavaScript, Typescript, Python, C++ and other programming languages, as well as wrapping things into containers. That's what GitHub projects I contributed to lately use:
+I enjoy writing software in Rust, Typescript, Python, C++ and other programming languages, as well as wrapping things into Docker containers. These are the technologies I used lately on GitHub:
 
 <p align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ivan-aksamentov&custom_title=What%20Ivan%20used%20in%20Github%20projects&count_private=true&include_all_commits=true&show_icons=true&langs_count=10&layout=compact&role=COLLABORATOR" alt="What Ivan used in Github projects"/>
