@@ -16,12 +16,24 @@ I enjoy writing software in Rust, Typescript, Python, C++ and other programming 
 Not that you asked, but here are some stats I love to brag about 😎
 
 <p align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=ivan-aksamentov&custom_title=Ivan%27s%20GitHub%20Stats&include_all_commits=true&count_private=true&show_icons=true&layout=compact&role=OWNER,COLLABORATOR" alt="Ivan's GitHub stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ivan-aksamentov&custom_title=Ivan%27s%20GitHub%20Stats&include_all_commits=true&count_private=true&show_icons=true&layout=compact&role=OWNER,COLLABORATOR" alt="Ivan's GitHub stats"/>
+  </a>
 </p>
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-aksamentov" alt="Ivan's GitHub Streak stats"/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-aksamentov" alt="Ivan's GitHub Streak stats"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=ivan-aksamentov&column=4&margin-w=15&margin-h=15" alt="Ivan's GitHub Trophies"/>
+  </a>
+</p>
+
+
 
 Do you have some cool project ideas? Ping me here as @ivan-aksamentov. See you around!
